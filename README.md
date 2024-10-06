@@ -6,7 +6,7 @@
 ## Fonctionnalités
 - **Liste des Recettes** : Parcourez une variété de recettes de pizzas.
 - **Détails des Recettes** : Accédez aux ingrédients et aux instructions pour chaque recette.
-- **Interface Animée** : Profitez d'une activité de démarrage avec animation.
+- **Interface Splash Screen** : Profitez d'une activité de démarrage.
 
 ## Technologies Utilisées
 - **Android SDK** : Pour le développement d'applications mobiles sur Android.
